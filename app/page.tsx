@@ -1,3 +1,4 @@
+export const dynamic = 'force-dynamic'
 import { getEvents } from "@/lib/events";
 import EventList from "@/components/EventList";
 import Navbar from "@/components/Navbar";
